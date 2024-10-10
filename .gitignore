@@ -1,0 +1,68 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sdf
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.ldb
+*.aps
+*.idb
+*.pdb
+*.dll
+*.exe
+*.log
+*.svclog
+*.iobj
+*.ipdb
+*.pch
+*.mdb
+*.res
+*.exp
+*.manifest
+*.pch
+*.vsp
+*.vspx
+*.snk
+
+
+/.vs/UsuariosApp/FileContentIndex/e969a9d6-907a-46e0-a3e5-3681f9f3fbad.vsidx
+/.vs/UsuariosApp/FileContentIndex/e24434be-bb62-46ee-bd4d-2364f73f0957.vsidx
+/.vs/UsuariosApp/FileContentIndex/bfdf6f85-570a-4f45-b8c3-166edb2e5464.vsidx
+/.vs/UsuariosApp/FileContentIndex/6238bc84-c117-4691-99f6-0913a4437930.vsidx
+/.vs/UsuariosApp/FileContentIndex/18c3eb44-3905-4fa8-a189-f96102106ed9.vsidx
+/.vs/UsuariosApp/v17/.suo
+/UsuariosApp.API/obj/Debug/net8.0/UsuariosApp.API.GeneratedMSBuildEditorConfig.editorconfig
+/UsuariosApp.API/obj/Debug/net8.0/UsuariosApp.API.csproj.AssemblyReference.cache
+/UsuariosApp.API/obj/project.assets.json
+/UsuariosApp.API/obj/Debug/net8.0/UsuariosApp.API.assets.cache
+/UsuariosApp.API/obj/project.nuget.cache
+/UsuariosApp.API/obj/Debug/net8.0/UsuariosApp.API.AssemblyInfoInputs.cache
